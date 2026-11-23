@@ -1,0 +1,6 @@
+{
+  "name": "Pingit",
+  "description": "Social media for chatting via SQL database pinging, activity feed, Google Maps friend suggestions, and Gmail chat.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
